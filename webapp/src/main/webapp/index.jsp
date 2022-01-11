@@ -1,2 +1,2 @@
-<h1> Hello, Welcome DevOps Project at ISE PESCE mandya </h1>
+<h1> Hello, Welcome DevOps Project at ISE PESCE</h1>
 <
